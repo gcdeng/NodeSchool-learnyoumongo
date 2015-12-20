@@ -1,11 +1,11 @@
 # NodeSchool-learnyoumongo
-NodeSchool course learnyoumongo
+This is my practice in NodeSchool learnyoumongo course
 
-##Node School:
+###Node School:
 http://nodeschool.io/zh-tw/
 
-##require 
+###require 
 node.js
 
-##install
+###install
 $ [sudo] npm install -g learnyoumongo
