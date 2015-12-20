@@ -1,5 +1,5 @@
 # NodeSchool-learnyoumongo
-This is my practice in NodeSchool learnyoumongo course
+This is my mongoDB practice in NodeSchool learnyoumongo course
 
 ###Node School:
 http://nodeschool.io/zh-tw/
